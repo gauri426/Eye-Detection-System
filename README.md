@@ -20,19 +20,7 @@
 
 ---
 
-# 📸 Screenshots
 
-> Add your screenshots inside the **screenshots/** folder.
-
-| Home                      | Dashboard                      |
-| ------------------------- | ------------------------------ |
-| ![](screenshots/home.png) | ![](screenshots/dashboard.png) |
-
-| Webcam                      | Eye Detection                      |
-| --------------------------- | ---------------------------------- |
-| ![](screenshots/webcam.png) | ![](screenshots/eye-detection.png) |
-
----
 
 # 📖 Overview
 
